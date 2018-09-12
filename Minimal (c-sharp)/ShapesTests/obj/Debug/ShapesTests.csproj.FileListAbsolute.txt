@@ -1,0 +1,9 @@
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\bin\Debug\ShapesTests.dll
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\bin\Debug\ShapesTests.pdb
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\bin\Debug\Shapes.dll
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\bin\Debug\Shapes.pdb
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\obj\Debug\ShapesTests.csprojAssemblyReference.cache
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\obj\Debug\ShapesTests.csproj.CoreCompileInputs.cache
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\obj\Debug\ShapesTests.csproj.CopyComplete
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\obj\Debug\ShapesTests.dll
+C:\Users\Cory Henry\Desktop\OOP\hw1StarterCode\Minimal (c-sharp)\ShapesTests\obj\Debug\ShapesTests.pdb
